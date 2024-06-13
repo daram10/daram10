@@ -15,4 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  # Hi there 
+  # Hi there
+
+# ¡Hola! Soy [Tu Nombre] 👋
+
+¡Bienvenido a mi perfil de GitHub!
+
+- 🔭 Actualmente estoy trabajando en [proyecto]
+- 🌱 Actualmente estoy aprendiendo [tecnología]
+- 👯 Estoy buscando colaborar en [tipo de proyectos]
+- 💬 Pregúntame sobre [tema]
+- 📫 Cómo contactarme: [correo electrónico]
+- ⚡ Dato curioso: [dato curioso sobre ti]
+
+## Proyectos Destacados
+- [Waste management in colombia](https://github.com/daram10/Colombia_ordinary_waste.git)
+- [Proyecto 2](enlace al proyecto)
