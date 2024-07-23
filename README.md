@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
   # Hi there
 
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy [Danna] 👋
 
 ¡Bienvenido a mi perfil de GitHub!
 
